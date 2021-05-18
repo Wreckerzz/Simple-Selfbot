@@ -1,0 +1,6 @@
+pip install pyfiglet
+pip install discord
+pip install asyncio
+pip install random
+pip install json
+pip install discord
